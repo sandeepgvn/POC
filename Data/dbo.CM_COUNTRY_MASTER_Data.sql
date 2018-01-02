@@ -1,3 +1,3 @@
-INSERT INTO [dbo].[CM_COUNTRY_MASTER] ([COUNTRY_CODE], [COUNTRY_NAME]) VALUES ('IND', 'INDIA')
-INSERT INTO [dbo].[CM_COUNTRY_MASTER] ([COUNTRY_CODE], [COUNTRY_NAME]) VALUES ('UK ', 'United Kingdom')
-INSERT INTO [dbo].[CM_COUNTRY_MASTER] ([COUNTRY_CODE], [COUNTRY_NAME]) VALUES ('USA', 'United States of America')
+INSERT INTO [dbo].[CM_COUNTRY_MASTER] ([COUNTRY_CODE], [COUNTRY_NAME], [CURRENCY_CODE], [PRECISION], [SCALE], [ADDRESS]) VALUES ('IND', 'INDIA', NULL, NULL, NULL, '1st Floor, Ballard House, Adimarzban Path, Ballard Estate, Fort, Mumbai-400001')
+INSERT INTO [dbo].[CM_COUNTRY_MASTER] ([COUNTRY_CODE], [COUNTRY_NAME], [CURRENCY_CODE], [PRECISION], [SCALE], [ADDRESS]) VALUES ('UK ', 'United Kingdom', NULL, NULL, NULL, '1st Floor, Ballard House, Adimarzban Path, Ballard Estate, Fort, Mumbai-400001')
+INSERT INTO [dbo].[CM_COUNTRY_MASTER] ([COUNTRY_CODE], [COUNTRY_NAME], [CURRENCY_CODE], [PRECISION], [SCALE], [ADDRESS]) VALUES ('USA', 'United States of America', NULL, NULL, NULL, '1st Floor, Ballard House, Adimarzban Path, Ballard Estate, Fort, Mumbai-400001')
