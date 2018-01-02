@@ -3,6 +3,8 @@
   "Deployment order": [
     {"Description":"Changes before migration script 'Script created at 2018-01-02 16:42.'","Type":"Compare","Id":"2018-01-02-164326 1o auto"},
     {"Description":"Migration script 'Script created at 2018-01-02 16:42.'","Type":"Migration","Id":"2018-01-02-164326 1p user"},
+    {"Description":"Changes before migration script 'Script created at 2018-01-02 16:52.'","Type":"Compare","Id":"2018-01-02-165501 1q auto"},
+    {"Description":"Migration script 'Script created at 2018-01-02 16:52.'","Type":"Migration","Id":"2018-01-02-165501 1r user"},
   ],
   "Conflict in this file?": "If there’s a conflict in this file, you probably want to keep both changes. Learn more: http://www.red-gate.com/SOC4/order-file-more-info"
 }
